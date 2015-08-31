@@ -5,14 +5,11 @@ Genomics Lab.  These collaborations collectively have two larger goals:
 * to motivate CGL software and methods development, ensuring that the software and methods are useful for genomic investigations
 * to advance specific genomic investigations through the application of the CGL software and methods.
 
-# H1
+Three driver projects are utilizing CGL pipelines, and are represented by subdirectories in this repository:
 
-##H2
+1. **BeatAML** is working to address Acute Myeloid Leukemia, in collaboration with OHSU.
 
-### H3
+2. **ISPY2** is a breast cancer clinical trial at UCSF that applies precision medicine methods to assess the effectiveness of experimental compounds plus standard of care compared to standard of care alone.
 
-#### H4
-
-##### H5
-
-###### H6
+3. **Treehouse** is a pediatric cancer initiative, performed in collaboration with many labs (through many subprojects) to advance pediatric cancer research through integrative and pan-cancer methods.
+ 
