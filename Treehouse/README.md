@@ -6,9 +6,9 @@ pediatric and adult cancers.
 
 ## Treehouse projects
 
-* +[TARGET](https://ocg.cancer.gov/programs/target)+ is a pediatric cancer 
+* **[TARGET](https://ocg.cancer.gov/programs/target)** is a pediatric cancer 
 atlas project managed by NCI's Office of Cancer Genomics.
-  * +Status:+ We are in the process of downloading 170 neuroblastoma RNASeq 
+  * **Status:** We are in the process of downloading 170 neuroblastoma RNASeq 
 files sequenced by the NCI-Khan center.
 
 
