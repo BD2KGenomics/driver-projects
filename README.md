@@ -5,6 +5,8 @@ Genomics Lab.  These collaborations collectively have two larger goals:
 * to motivate CGL software and methods development, ensuring that the software and methods are useful for genomic investigations
 * to advance specific genomic investigations through the application of the CGL software and methods.
 
+#### The Driver Projects
+
 Three driver projects are utilizing CGL pipelines, and are represented by subdirectories in this repository:
 
 1. **BeatAML** is working to address Acute Myeloid Leukemia, in collaboration with OHSU.
@@ -13,3 +15,6 @@ Three driver projects are utilizing CGL pipelines, and are represented by subdir
 
 3. **Treehouse** is a pediatric cancer initiative, performed in collaboration with many labs (through many subprojects) to advance pediatric cancer research through integrative and pan-cancer methods.
  
+#### Contents of this repository
+
+This repository contains information on the data analysis efforts for each of these driver projects, including the list of samples under analysis, location of input and output files, and analysis status.
