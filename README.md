@@ -9,11 +9,11 @@ Genomics Lab.  These collaborations collectively have two larger goals:
 
 Three driver projects are utilizing CGL pipelines, and are represented by subdirectories in this repository:
 
-1. **[BeatAML](BeatAML/Readme.md)** is working to address Acute Myeloid Leukemia, in collaboration with OHSU.
+1. **[BeatAML](BeatAML/README.md)** is working to address Acute Myeloid Leukemia, in collaboration with OHSU.
 
-2. **[ISPY2](ISPY2/Readme.md)** is a breast cancer clinical trial at UCSF that applies precision medicine methods to assess the effectiveness of experimental compounds plus standard of care compared to standard of care alone.
+2. **[ISPY2](ISPY2/README.md)** is a breast cancer clinical trial at UCSF that applies precision medicine methods to assess the effectiveness of experimental compounds plus standard of care compared to standard of care alone.
 
-3. **[Treehouse](Treehouse/Readme.md)** is a pediatric cancer initiative, performed in collaboration with many labs (through many subprojects) to advance pediatric cancer research through integrative and pan-cancer methods.
+3. **[Treehouse](Treehouse/README.md)** is a pediatric cancer initiative, performed in collaboration with many labs (through many subprojects) to advance pediatric cancer research through integrative and pan-cancer methods.
  
 ## Contents of this repository
 
