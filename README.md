@@ -5,6 +5,11 @@ Genomics Lab.  These collaborations collectively have two larger goals:
 * to motivate CGL software and methods development, ensuring that the software and methods are useful for genomic investigations
 * to advance specific genomic investigations through the application of the CGL software and methods.
 
+## Specifications for end-user interaction
+
+Details of how samples are indicated within the system are described in a [separate document](https://docs.google.com/document/d/1D6a8AxTaCTHrcNIu4t9tRpPNRyMsbr1DnoBy5TJudy4/edit?usp=sharing)
+
+
 ## The projects
 
 Three driver projects are utilizing CGL pipelines, and are represented by subdirectories in this repository:
