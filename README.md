@@ -7,7 +7,7 @@ Genomics Lab.  These collaborations collectively have two larger goals:
 
 ## Specifications for end-user interaction
 
-Details of how samples are indicated within the system are described in a [separate document](https://docs.google.com/document/d/1D6a8AxTaCTHrcNIu4t9tRpPNRyMsbr1DnoBy5TJudy4/edit?usp=sharing)
+Details of how samples are indicated within the system are described in a [separate document](https://docs.google.com/document/d/1D6a8AxTaCTHrcNIu4t9tRpPNRyMsbr1DnoBy5TJudy4/edit?usp=sharing).
 
 
 ## The projects
