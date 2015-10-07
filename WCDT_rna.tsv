@@ -14,5 +14,6 @@ WCDT	DTB-008-Baseline	60e45c51-4e02-4e9d-971c-bfe15afa9bc4	y	y
 WCDT	DTB-018-Progression	36969a52-4c30-4882-9f26-1b47487438a5	y	y
 WCDT	DTB-097-Progression	def60fa0-8d6f-41df-8a71-4116eae1aca7	y	y
 WCDT	DTB-091-Baseline	0290f22e-5667-4fd2-9809-6834c9f68331	y	y
-WCDT	DTB-090-Progression	9f04ba83-3b2a-46b6-b9f7-74b0d95a53a	y	n
 WCDT	DTB-090-Baseline	8090d67c-d43e-448c-8e56-ba6b33cb9954	y	y
+WCDT	DTB-090-Progression	9f04ba83-3b2a-46b6-b9f7-74b0d95a53a	y	n
+WCDT  DTB-077-Progression 754af497-be0d-49e3-996f-9d95e57c3966  y n
